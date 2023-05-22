@@ -1,6 +1,9 @@
 <div align="center">
+    <image src="https://github.com/SSAFY-Dokki/.github/assets/36250213/a1e942bd-58f8-4316-a9a8-913a19c802b5"/>
+</div>
+
+<div align="center">
 <br />
-![로고](readme_asset/로고.png)
     <h3></h3>
     <h3> 독서기록을 바탕으로 나만의 AI 이미지 기록을 할 수 있는 독서기록앱 </h3>
     <h3>👉👉<a href="https://m.onestore.co.kr/mobilepoc/apps/appsDetail.omp?prodId=0000769537"> One Store</a> App Download 👈👈</h3>
